@@ -9,7 +9,7 @@ import java.util.Random;
         }
         public void setnoofguesses(int noofguesses){
                 this.noofguesses = noofguesses;
-        }
+        } 
         game(){
             
             Random rand = new Random();
