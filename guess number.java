@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
     class game{
-       int number;
+       int number; 
        int userinput;
         int noofguesses = 0 ;
         public int getnoofguesses(){
@@ -37,7 +37,7 @@ userinput = sc.nextInt();
         
         }
         else if (userinput >number){
-            System.out.println("to high............");
+            System.out.println("to high. but close...........");
       
                
 
